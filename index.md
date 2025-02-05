@@ -8,3 +8,8 @@ public class helloWorld {
     }
 }
 ```
+
+Task List
+- [x] Finish in class assinment
+- [x] Do scrimba nuggets
+- [ ] Finish GitHub assignments
